@@ -17,10 +17,10 @@ fi
 
 echo -e "${GREEN}=========================================================="
 echo -e "  -- Geektoolkit present: Dynaframe 2.0                 --"
-echo -e "  -- Preparing to install Version: $version                 --"
+echo -e "  -- Preparing to install Version: $version             --"
 echo -e "  -- Find out more on youtube on the ${CYAN}Geektookit ${GREEN}channel --"
 echo -e "  -- Created by: Joe Farro  of Geektoolkit              --"
-echo -e "  -- Special thanks: LSmithx2 qwksilver  RichN001                --"
+echo -e "  -- Special thanks: LSmithx2, qwksilver, RichN001      --"
 echo -e "  -- Powered by Avalonia.                               --"
 echo -e "==========================================================${NC}"
 if [ -f "$file" ];
